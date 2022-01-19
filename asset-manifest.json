@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b9f557c1.chunk.css",
+    "main.js": "/portfolio/static/js/main.ec6f9b2a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ec6f9b2a.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.3589095a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.3589095a.js.map",
+    "static/css/2.f2512455.chunk.css": "/portfolio/static/css/2.f2512455.chunk.css",
+    "static/js/2.6b0071b7.chunk.js": "/portfolio/static/js/2.6b0071b7.chunk.js",
+    "static/js/2.6b0071b7.chunk.js.map": "/portfolio/static/js/2.6b0071b7.chunk.js.map",
+    "static/js/3.f3169736.chunk.js": "/portfolio/static/js/3.f3169736.chunk.js",
+    "static/js/3.f3169736.chunk.js.map": "/portfolio/static/js/3.f3169736.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/portfolio/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.b9f557c1.chunk.css.map": "/portfolio/static/css/main.b9f557c1.chunk.css.map",
+    "static/js/2.6b0071b7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6b0071b7.chunk.js.LICENSE.txt",
+    "static/media/Olx.7b7dca8d.png": "/portfolio/static/media/Olx.7b7dca8d.png",
+    "static/media/Pokemon1.61379523.PNG": "/portfolio/static/media/Pokemon1.61379523.PNG",
+    "static/media/Table.1938e7c2.png": "/portfolio/static/media/Table.1938e7c2.png",
+    "static/media/bg.4fd08c1c.jpg": "/portfolio/static/media/bg.4fd08c1c.jpg",
+    "static/media/books.dafb1eee.jpg": "/portfolio/static/media/books.dafb1eee.jpg",
+    "static/media/calculator3.0b7473f0.png": "/portfolio/static/media/calculator3.0b7473f0.png",
+    "static/media/dashboard.1a66de0d.png": "/portfolio/static/media/dashboard.1a66de0d.png",
+    "static/media/favicon.8a95ff09.webp": "/portfolio/static/media/favicon.8a95ff09.webp",
+    "static/media/login.998f4bc0.png": "/portfolio/static/media/login.998f4bc0.png",
+    "static/media/stopwatch.a9f9f3af.png": "/portfolio/static/media/stopwatch.a9f9f3af.png",
+    "static/media/todo.c4fdeb56.png": "/portfolio/static/media/todo.c4fdeb56.png",
+    "static/media/upwork1.0608a9db.PNG": "/portfolio/static/media/upwork1.0608a9db.PNG",
+    "static/media/weather-status-app.e9c6e205.png": "/portfolio/static/media/weather-status-app.e9c6e205.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3589095a.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.6b0071b7.chunk.js",
+    "static/css/main.b9f557c1.chunk.css",
+    "static/js/main.ec6f9b2a.chunk.js"
+  ]
+}
